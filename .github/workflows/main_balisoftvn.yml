@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'balisoftvn'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_e2760746b7ac4d218bc659904d2938b8 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_2f67030071e64d8595979e964f7fcc42 }}
